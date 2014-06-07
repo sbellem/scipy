@@ -81,7 +81,7 @@ which is not included with Xcode: you should use gfortran from this page:
 
    http://r.research.att.com/tools/
 
-Please do NOT use gfortran from hpc.sourceforge.net, it is known to generate
+Please do NOT use gfortran from `hpc.sourceforge.net <http://hpc.sourceforge.net>`_, it is known to generate
 buggy scipy binaries.
 
 .. _Xcode: http://developer.apple.com/TOOLS/xcode
