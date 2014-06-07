@@ -38,7 +38,7 @@ __ http://www.numpy.org/
 
 3) If you want to build the documentation: Sphinx__ 1.1.0 or newer
 
-__ http://http://sphinx-doc.org/
+__ http://sphinx-doc.org/
 
 4) If you want to build SciPy master or other unreleased version from source
    (Cython-generated C sources are included in official releases):
