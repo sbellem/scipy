@@ -79,7 +79,7 @@ It is recommended to use gcc. gcc is available for free when installing
 Xcode__, the developer toolsuite on Mac OS X. You also need a fortran compiler,
 which is not included with Xcode: you should use gfortran from this page:
 
-__ http://r.research.att.com/tools/
+   http://r.research.att.com/tools/
 
 Please do NOT use gfortran from hpc.sourceforge.net, it is known to generate
 buggy scipy binaries.
